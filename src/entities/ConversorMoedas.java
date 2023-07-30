@@ -4,11 +4,11 @@ import javax.swing.*;
 
 public class ConversorMoedas {
 	
-	private double realDolar = 0.21;
-	private double realEuro = 0.19;
-	private double realLibras = 0.16;
-	private double realPesoArgentino = 57.73;
-	private double realPesoChileno = 174.80;
+	protected double realDolar = 0.21;
+	protected double realEuro = 0.19;
+	protected double realLibras = 0.16;
+	protected double realPesoArgentino = 57.73;
+	protected double realPesoChileno = 174.80;
 	
 	public ConversorMoedas() {
 	}
