@@ -8,4 +8,4 @@
 <img src="/assets/tela-swing.jpg" />
 <h2>Teste utilizando o terminal (Scanner da bliblioteca util Java)</h2>
 <p>Classe teste do sistema utilizando a interação com o usuário pelo terminal. (TesteTerminal.java)</p>
-<img src="/assets/tela-terminal.jpg" />
+<img src="/assets/tela-teminal.jpg" />
