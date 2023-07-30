@@ -14,8 +14,8 @@ public class App {
 
 		while(verifica) {
 
-			String opcoes = JOptionPane.showInputDialog(null, "Escolha uma opção", 
-					"Conversor de Moedas Desafio Alura", JOptionPane.INFORMATION_MESSAGE, 
+			String opcoes = JOptionPane.showInputDialog(null, "Escolha uma opção:", 
+					"Conversor de Moedas Desafio Alura", JOptionPane.PLAIN_MESSAGE, 
 					null, new Object[]{"Conversor de Moeda"}, "Escolha").toString();
 
 			if(opcoes == "Conversor de Moeda") {

@@ -10,9 +10,7 @@ public class ConversorMoedas {
 	private double realPesoArgentino = 57.73;
 	private double realPesoChileno = 174.80;
 	
-	
 	public ConversorMoedas() {
-		
 	}
 	
 	public void converterRealDolares(double valor){
